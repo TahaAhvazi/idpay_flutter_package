@@ -1,6 +1,6 @@
 name: idpay
 description: A Flutter package to create transactions in Idpay peymant getaway
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/TahaAhvazi/idpay_flutter_package.git
 
 environment:
